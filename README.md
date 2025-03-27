@@ -2,6 +2,8 @@
 
 **InsightRX** is a Streamlit-based web application designed to assist researchers and clinicians by summarizing clinical research papers and providing a question-answering (Q&A) interface to extract specific information from the papers. The app uses natural language processing (NLP) models to generate concise summaries and answer user queries, making it easier to quickly understand and analyze research content.
 
+![InsightRX Screenshot](Screenshot_1.png)
+
 ## Features
 
 - **PDF Upload:** Upload clinical research papers in PDF format.
